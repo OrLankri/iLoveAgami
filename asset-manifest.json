@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebce40e1.css",
-    "main.js": "/static/js/main.670d0136.js",
-    "static/js/787.e809c0d5.chunk.js": "/static/js/787.e809c0d5.chunk.js",
-    "index.html": "/index.html",
-    "main.ebce40e1.css.map": "/static/css/main.ebce40e1.css.map",
-    "main.670d0136.js.map": "/static/js/main.670d0136.js.map",
-    "787.e809c0d5.chunk.js.map": "/static/js/787.e809c0d5.chunk.js.map"
+    "main.css": "/iLoveAgami/static/css/main.ebce40e1.css",
+    "main.js": "/iLoveAgami/static/js/main.77ad1809.js",
+    "static/js/787.e809c0d5.chunk.js": "/iLoveAgami/static/js/787.e809c0d5.chunk.js",
+    "index.html": "/iLoveAgami/index.html",
+    "main.ebce40e1.css.map": "/iLoveAgami/static/css/main.ebce40e1.css.map",
+    "main.77ad1809.js.map": "/iLoveAgami/static/js/main.77ad1809.js.map",
+    "787.e809c0d5.chunk.js.map": "/iLoveAgami/static/js/787.e809c0d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebce40e1.css",
-    "static/js/main.670d0136.js"
+    "static/js/main.77ad1809.js"
   ]
 }
